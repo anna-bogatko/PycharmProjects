@@ -9,7 +9,7 @@ class AssertDemo(unittest.TestCase):
     def test_assertTrueFalse(self):
         a = True
         self.assertTrue(a, "a is not false")
-        b = True
+        b = False
         self.assertFalse(b, "b is not true")
 
 
