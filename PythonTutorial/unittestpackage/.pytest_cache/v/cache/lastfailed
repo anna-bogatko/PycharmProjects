@@ -1,0 +1,5 @@
+{
+  "assert_demo.py::AssertDemo::test_assertEqual": true,
+  "assert_demo.py::AssertDemo::test_assertTrueFalse": true,
+  "test_case_demo1.1.py": true
+}

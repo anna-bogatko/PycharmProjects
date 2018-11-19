@@ -1,0 +1,4 @@
+[
+  "test_command_line_args.py::test_command_line_methodA",
+  "test_command_line_args.py::test_command_line_methodB"
+]

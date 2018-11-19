@@ -1,0 +1,205 @@
+1538559223664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile.OuPXppPJDlSA"
+1538559227505	Marionette	INFO	Listening on port 55768
+1538559227604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538559227683	Marionette	DEBUG	[4294967297] Frame script loaded
+1538559227761	Marionette	DEBUG	[4294967297] Frame script registered
+1538559227843	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538559229064	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538559230315	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538559232219	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+[Parent 11724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/comm1538559241483	Marionette	INFO	Stopped listening on port 55768
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538559770189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile.lXYPuN6pRGyb"
+1538559773472	Marionette	INFO	Listening on port 62992
+1538559773543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538559773601	Marionette	DEBUG	[6442450945] Frame script loaded
+1538559773641	Marionette	DEBUG	[6442450945] Frame script registered
+1538559773674	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538559775190	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538559776449	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538559778238	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+1538559778272	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://learn.letskodeit.com/p/practice
+1538559778614	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://learn.letskodeit.com/p/practice
+1538559778615	Marionette	DEBUG	[6442450945] Received DOM event unload for https://learn.letskodeit.com/p/practice
+1538559779668	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1538559779668	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1538559779669	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1538559779669	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1538559779669	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1538559780047	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yahoo.com/
+1538559784563	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yahoo.com/
+[Parent 13068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15928, Chrome_ChildThread] WARNING: pipe err1538559790268	Marionette	INFO	Stopped listening on port 62992
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538560283724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile.VuwYHtvKQKBc"
+1538560286843	Marionette	INFO	Listening on port 53516
+1538560287069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538560287357	Marionette	DEBUG	[6442450945] Frame script loaded
+1538560287360	Marionette	DEBUG	[6442450945] Frame script registered
+1538560287392	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538560289181	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538560289182	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1538560290305	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538560292293	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+[Child 12008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12008, Ch1538561084083	Marionette	INFO	Stopped listening on port 53516
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538566464169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile.ZkTSZC3AJtsh"
+1538566468215	Marionette	INFO	Listening on port 60403
+1538566468292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538566468365	Marionette	DEBUG	[6442450945] Frame script loaded
+1538566468423	Marionette	DEBUG	[6442450945] Frame script registered
+1538566468493	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538566470344	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538566471660	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538566473562	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+[Child 7560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7560, Chrome_ChildThread] WARNING: pipe er[Child 15312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15312, C1538566481776	Marionette	INFO	Stopped listening on port 60403
+[GPU 13308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538566920138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile.bxb49xycZPUQ"
+1538566923784	Marionette	INFO	Listening on port 50822
+1538566924243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538566924286	Marionette	DEBUG	[6442450945] Frame script loaded
+1538566924288	Marionette	DEBUG	[6442450945] Frame script registered
+1538566924319	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538566926190	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538566927514	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538566931809	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+[Child 8068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src1538566970509	Marionette	INFO	Listening on port 51557
+1538566970816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538566970862	Marionette	DEBUG	[6442450945] Frame script loaded
+1538566970866	Marionette	DEBUG	[6442450945] Frame script registered
+1538566970894	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538566972747	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538566973784	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538566975413	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+[Child 18248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11538567949085	Marionette	INFO	Stopped listening on port 51557
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e	WARN	TLS certificate errors will be ignored for this session
+1538567641564	Marionette	DEBUG	[6442450945] Frame script loaded
+1538567641566	Marionette	DEBUG	[6442450945] Frame script registered
+1538567641616	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538567643198	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538567644367	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538567646235	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+[Parent 7524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538567950283	Marionette	INFO	Stopped listening on port 61149
+[GPU 12980, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+1538567722024	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538567723252	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538567724964	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+[Parent 14272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538567946351	Marionette	INFO	Stopped listening on port 62337
+[GPU 8636, Chrome_ChildThread] WARNING: pipe error: 109: file z
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538568291449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile.PPZPYouBVGYp"
+1538568294943	Marionette	INFO	Listening on port 54404
+1538568295381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538568295433	Marionette	DEBUG	[4294967297] Frame script loaded
+1538568295435	Marionette	DEBUG	[4294967297] Frame script registered
+1538568295457	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538568297299	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538568298317	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538568300212	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+[Child 17584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17591538568510704	Marionette	INFO	Stopped listening on port 54404
+[GPU 161
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BUG	[6442450945] Frame script registered
+1538568360049	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538568361923	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538568361924	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1538568363299	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538568365132	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+[Child 5704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5704, Chrome_ChildThread] WARNING: pipe error:[Child 19392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19392, Chrome_Chi[Parent 17036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc1538568515674	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538568516845	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538568518386	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+[Child 8664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3[Child 19344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch[Child 18552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538568523725	Marionette	INFO	Stopped listening on port 57752
+[GPU 15540
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538569077946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile.WqibC3rl8mcE"
+1538569081209	Marionette	INFO	Listening on port 49651
+1538569081275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538569081343	Marionette	DEBUG	[6442450945] Frame script loaded
+1538569081385	Marionette	DEBUG	[6442450945] Frame script registered
+1538569081433	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538569090430	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538569091555	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538569093479	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+[Parent 11316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 11316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11316, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1538584660197	Marionette	INFO	Stopped listening on port 49651
+1538658446455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile.S7TOIDOuiBSl"
+1538658450160	Marionette	INFO	Listening on port 59114
+1538658450378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538658450465	Marionette	DEBUG	[6442450945] Frame script loaded
+1538658450467	Marionette	DEBUG	[6442450945] Frame script registered
+1538658450516	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538658452699	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538658453800	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538658455457	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+1538658512479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile.wndgsKPmFuax"
+1538658515746	Marionette	INFO	Listening on port 59968
+1538658515856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538658515925	Marionette	DEBUG	[6442450945] Frame script loaded
+1538658515975	Marionette	DEBUG	[6442450945] Frame script registered
+1538658516026	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538658522106	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538658523028	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538658524920	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+[Parent 9824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538667883765	Marionette	INFO	Stopped listening on port 59968
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+oad for about:blank
+1538658567801	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538658568842	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://learn.letskodeit.com/p/practice
+1538658570544	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://learn.letskodeit.com/p/practice
+[Parent 17720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10004, Chro[Parent 17720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538667883111	Marionette	INFO	Stopped listening on port 60607

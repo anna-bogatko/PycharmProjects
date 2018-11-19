@@ -1,0 +1,4 @@
+[
+  "pytestpackage/test_reporting_demo.py::TestReportingDemo::()::test_methodA",
+  "pytestpackage/test_reporting_demo.py::TestReportingDemo::()::test_methodB"
+]

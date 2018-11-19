@@ -1,0 +1,632 @@
+1540284208660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile.gmlxCn71aoUr"
+1540284212144	Marionette	INFO	Listening on port 52543
+1540284212581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540284212633	Marionette	DEBUG	[6442450945] Frame script loaded
+1540284212635	Marionette	DEBUG	[6442450945] Frame script registered
+1540284216177	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540284217548	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540284218543	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://letskodeit.teachable.com/
+1540284219670	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://letskodeit.teachable.com/
+1540284219932	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://letskodeit.teachable.com/
+1540284220393	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://letskodeit.teachable.com/
+1540284220399	Marionette	DEBUG	[6442450945] Received DOM event unload for https://letskodeit.teachable.com/
+1540284231748	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+1540284231821	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540284231822	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540284232017	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://sso.teachable.com/secure/42299/users/sign_in?clean_login=true&reset_purchase_session=1
+[Parent 17520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1281540284271956	Marionette	INFO	Stopped listening on port 52543
+[GPU 9316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bu
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540284591172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile.gqIBg0DVjivD"
+1540284594296	Marionette	INFO	Listening on port 57612
+1540284594548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540284594590	Marionette	DEBUG	[6442450945] Frame script loaded
+1540284594592	Marionette	DEBUG	[6442450945] Frame script registered
+1540284598119	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540284599215	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540284599896	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.expedia.com/
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+1540284603210	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540284603211	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540284603211	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540284603211	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1540284603211	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540284603212	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1540284603212	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1540284604346	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1540284604355	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1540284604359	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1540284604365	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1540284604371	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1540284604378	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1540284604389	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+1540284606486	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.expedia.com/
+[Parent 16792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540285359952	Marionette	INFO	Stopped listening on port 57612
+[GPU 5772, Chrome_ChildThread] WARNING: pi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	[6442450945] Received DOM event pagehide for about:blank
+1540285274394	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.expedia.com/
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+1540285278615	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540285278615	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540285278616	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540285278617	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1540285278617	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540285278617	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1540285278617	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1540285279850	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1540285279851	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1540285279852	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1540285279853	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1540285279859	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1540285279860	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1540285279860	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+1540285285505	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.expedia.com/
+1540285286301	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540285360902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_moz[GPU 170
+###!!! [Chil1540285369825	Marionette	INFO	Listening on port 51660
+1540285369865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540285369956	Marionette	DEBUG	[6442450945] Frame script loaded
+1540285369990	Marionette	DEBUG	[6442450945] Frame script registered
+1540285373534	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540285374191	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540285375665	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.expedia.com/
+1540285378506	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540285378506	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540285378507	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540285378507	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1540285378507	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540285378508	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1540285378508	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+1540285380437	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1540285380451	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1540285380457	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1540285380488	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1540285380490	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1540285380495	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1540285380503	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+1540285387026	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.expedia.com/
+1540285387913	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 9724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540286658705	Marionette	INFO	Stopped listening on port 51660
+[GPU 16156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bui
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+com/
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+1540285439938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540285439938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540285439938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540285439939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1540285439939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540285439961	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1540285439962	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1540285440355	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1540285440355	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1540285440359	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1540285440360	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1540285440427	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1540285440427	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1540285440432	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+1540285446697	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.expedia.com/
+1540285447764	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+[Parent 13600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540286659503	Marionette	INFO	Stopped listening on port 52590
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rionette	WARN	TLS certificate errors will be ignored for this session
+1540286110971	Marionette	DEBUG	[6442450945] Frame script loaded
+1540286110973	Marionette	DEBUG	[6442450945] Frame script registered
+1540286114584	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540286115579	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540286117583	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.expedia.com/
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+1540286123122	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540286123122	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540286123125	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540286123127	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1540286123128	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540286123128	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1540286123128	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1540286123591	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1540286123592	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1540286123619	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1540286123627	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1540286123640	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1540286123650	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1540286123656	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 75: unreachable code after return statement
+1540286135030	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.expedia.com/
+1540286135841	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: resource:///modules/ContentWebRTC.jsm, line 256: TypeError: aContentWindow.pendingPeerConnectionRequests is undefined
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode4954"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+console.error: (new Error("Connection closed, pending request to server1.conn0.child1/pagestyle261, type getComputed failed\n\nRequest stack:\nrequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/pro1540286664014	Marionette	INFO	Listening on port 53094
+1540286664508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540286664549	Marionette	DEBUG	[6442450945] Frame script loaded
+1540286664551	Marionette	DEBUG	[6442450945] Frame script registered
+1540286668090	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540286668647	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540286669488	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.expedia.com/
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+1540286673087	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540286673087	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540286673088	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540286673088	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1540286673089	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540286673089	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1540286673089	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1540286674132	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1540286674137	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1540286674142	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1540286674147	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1540286674153	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1540286674162	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1540286674167	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+1540286679108	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.expedia.com/
+1540286679873	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 5020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7212, [Child 16676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16676, Chrome_ChildThread] WARNING: pipe error: 10[Parent 5020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17540, Chro1540300323184	Marionette	INFO	Stopped listening on port 53094
+5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 12116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5788, Chrom1540286661242	Marionette	INFO	Stopped listening on port 61792
+[GPU 12648, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540286718394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile.XOf4xwlB3on9"
+1540286721545	Marionette	INFO	Listening on port 54012
+1540286721788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540286721843	Marionette	DEBUG	[6442450945] Frame script loaded
+1540286721852	Marionette	DEBUG	[6442450945] Frame script registered
+1540286725400	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540286726048	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540286726776	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.expedia.com/
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+1540286731018	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540286731018	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540286731019	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540286731019	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1540286731020	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540286731020	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1540286731020	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1540286731619	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1540286731631	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1540286731635	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1540286731644	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1540286731652	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1540286731652	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1540286731653	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 75: unreachable code after return statement
+1540286734960	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.expedia.com/
+1540286735718	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540286737004	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 2876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2876, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1540300316367	Marionette	INFO	Stopped listening on port 54012
+ for 6442450949
+1540286859944	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540286859945	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540286859945	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1540286859946	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540286859946	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1540286859946	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1540286860891	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1540286860899	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1540286860900	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1540286860926	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1540286860936	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1540286860947	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1540286860948	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+1540286863783	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.expedia.com/
+1540286864676	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540286866456	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 6228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6228, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1540300317552	Marionette	INFO	Stopped listening on port 55810
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+45] Frame script loaded
+1540287004149	Marionette	DEBUG	[6442450945] Frame script registered
+1540287007688	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540287008748	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540287010265	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.expedia.com/
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+1540287015566	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540287015566	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540287015569	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540287015570	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1540287015570	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540287015570	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1540287015570	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1540287015940	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1540287015973	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1540287015989	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1540287016001	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1540287016009	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1540287016013	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1540287016026	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 75: unreachable code after return statement
+1540287020426	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.expedia.com/
+1540287021381	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540287022542	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 22: Error: 4101 (The given Experiment details was null)
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-800330014, line 75: unreachable code after return statement
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode1620"
+[Parent 10252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540300320649	Marionette	INFO	Stopped listening on port 57901
+ng: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+1540287121890	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.expedia.com/
+1540287122695	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540287124371	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540287125034	Marionette	DEBUG	[6442451009] Frame script loaded
+1540287125081	Marionette	DEBUG	[6442451009] Frame script registered
+1540287125349	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.expedia.com/
+1540287125428	Marionette	DEBUG	[6442451012] Frame script loaded
+1540287125429	Marionette	DEBUG	[6442451012] Frame script registered
+1540287125488	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451009
+1540287126187	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.expedia.com/
+1540287126195	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.expedia.com/
+1540287126501	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1540287126501	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1540287126502	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1540287126502	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1540287126503	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1540287126503	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1540287126507	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1540287126508	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1540287126509	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1540287126510	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450996
+1540287126510	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450997
+1540287126511	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451004
+1540287126513	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451002
+1540287127845	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F24%2F2018&endDate=12%2F24%2F2018&mode=search&trip=roundtr ... =from%3ANYC%2Cto%3ASFO%2Cdeparture%3A12%2F24%2F2018TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY
+1540287128867	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451006
+1540287131704	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451028
+1540287131704	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451029
+1540287131705	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451030
+1540287131705	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451031
+1540287131705	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451032
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+1540287132805	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451033
+1540287132828	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451035
+1540287132829	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451036
+1540287132838	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451037
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+1540287133390	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451068
+1540287133399	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451070
+1540287134301	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451076
+1540287138050	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F24%2F2018&endDate=12%2F24%2F2018&mode=search&trip=roundtr ... =from%3ANYC%2Cto%3ASFO%2Cdeparture%3A12%2F24%2F2018TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY
+JavaScript error: https://cdn.doubleverify.com/dv-measurements241.js, line 51: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.doubleverify.com/dv-measurements241.js, line 51: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.doubleverify.com/dv-measurements241.js, line 51: NS_ERROR_NOT_INITIALIZED: 
+1540287138900	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451108
+1540287138901	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451079
+1540287138901	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451080
+1540287138901	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451115
+1540287138902	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451097
+1540287138902	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451056
+1540287138903	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451046
+1540287138903	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451017
+1540287138926	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451044
+1540287138926	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451019
+1540287138938	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451060
+1540287138939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451021
+1540287138939	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451034
+1540287138941	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451052
+1540287138944	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451110
+1540287138946	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451083
+1540287138947	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451084
+1540287138950	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451117
+1540287138954	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451098
+1540287138955	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451054
+1540287138955	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451106
+1540287138956	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451087
+1540287138956	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451088
+1540287138957	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451112
+1540287138957	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451099
+1540287138957	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451058
+1540287139346	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451132
+1540287139348	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451134
+1540287139553	Marionette	DEBUG	[6442451147] Frame script loaded
+1540287139554	Marionette	DEBUG	[6442451147] Frame script registered
+1540287139920	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 22: Error: 4101 (The given Experiment details was null)
+1540287141935	Marionette	INFO	Stopped listening on port 59390
+[Child 16052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 8248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540288058018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Anna\\AppData\\Local\\Temp\\rust_mozprofile.m90J6MlBj8uL"
+1540288062258	Marionette	INFO	Listening on port 55621
+1540288062557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540288062623	Marionette	DEBUG	[6442450945] Frame script loaded
+1540288062630	Marionette	DEBUG	[6442450945] Frame script registered
+[Parent 19420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540288226936	Marionette	INFO	Stopped listening on port 55621
+[GPU 6416, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+1540288149729	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540288151413	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.expedia.com/
+1540288154303	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540288154304	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1540288154305	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540288154313	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1540288154314	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1540288154315	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1540288154315	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+JavaScript error: https://a.travel-assets.com/datacapture/2/js/dctk.js, line 22: Error: 4101 (The given Experiment details was null)
+1540288154912	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1540288154920	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1540288154928	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1540288154929	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1540288154937	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1540288154941	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1540288154944	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1540288157740	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.expedia.com/
+1540288158590	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540288160656	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540288161446	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.expedia.com/
+1540288162250	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.expedia.com/
+1540288162268	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.expedia.com/
+1540288162751	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1540288162751	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1540288162752	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1540288162752	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1540288162752	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1540288162753	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1540288162757	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450994
+1540288162758	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1540288162760	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1540288162767	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1540288162768	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450999
+1540288162770	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451001
+1540288163898	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F24%2F2018&endDate=12%2F24%2F2018&mode=search&trip=roundtr ... =from%3ANYC%2Cto%3ASFO%2Cdeparture%3A12%2F24%2F2018TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY
+1540288167524	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451006
+1540288167524	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451007
+1540288167524	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451008
+1540288167524	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451009
+1540288167525	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451010
+1540288169326	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451011
+1540288169345	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451013
+1540288169347	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451014
+1540288169352	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451015
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-35711341-2, line 75: unreachable code after return statement
+1540288176156	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.expedia.com/Flights-Search?flight-type=on&starDate=12%2F24%2F2018&endDate=12%2F24%2F2018&mode=search&trip=roundtr ... =from%3ANYC%2Cto%3ASFO%2Cdeparture%3A12%2F24%2F2018TANYT&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY
+JavaScript error: https://cdn.doubleverify.com/dv-measurements241.js, line 51: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.doubleverify.com/dv-measurements241.js, line 51: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.doubleverify.com/dv-measurements241.js, line 51: NS_ERROR_NOT_INITIALIZED: 
+1540288176892	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451074
+1540288176893	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451046
+1540288176895	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451047
+1540288176897	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451080
+1540288176898	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451061
+1540288176899	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451027
+1540288176900	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451012
+1540288176901	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451023
+1540288176902	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451072
+1540288176903	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451078
+1540288176903	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451042
+1540288176904	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451043
+1540288176904	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451082
+1540288176904	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451062
+1540288176904	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451025
+1540288176905	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451076
+1540288176905	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451050
+1540288176905	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451051
+1540288176911	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451084
+1540288176912	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451063
+1540288176912	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451029
+1540288177015	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451089
+1540288177027	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451091
+1540288177027	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451093
+1540288177366	Marionette	DEBUG	[6442451104] Frame script loaded
+1540288177366	Marionette	DEBUG	[6442451104] Frame script registered
+1540288177685	Marionette	DEBUG	[6442451110] Frame script loaded
+1540288177686	Marionette	DEBUG	[6442451110] Frame script registered
+1540288177811	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451104
+1540288177827	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1540288179841	Marionette	INFO	Stopped listening on port 56748
+[Parent 9788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Parent 9788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
