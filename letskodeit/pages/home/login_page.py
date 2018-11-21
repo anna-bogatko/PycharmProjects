@@ -1,4 +1,3 @@
-from selenium.webdriver.common.by import By
 from base.selenium_driver import SeleniumDriver
 import utilities.custom_logger as cl
 import logging
@@ -29,7 +28,6 @@ class LoginPage(SeleniumDriver):
     def clickLoginButton(self):
         self.elementClick(self._login_button, locatorType="name")
 
-
     def login(self, email="", password=""):
         self.clickLoginLink()
         self.enterEmail(email)
@@ -37,9 +35,17 @@ class LoginPage(SeleniumDriver):
         self.clickLoginButton()
 
     def verifyLoginSuccessful(self):
-        result = self.isElementPresent("//a[contains(text(),'My Courses')]", locatorType="xpath")
+        result = self.isElementPresent("//*[@id='navbar']//span[text()='User Settings']",
+                                       locatorType="xpath")
         return result
 
     def verifyLoginFailed(self):
-        result = self.isElementPresent("//div[@class='alert alert-danger']", locatorType="xpath")
+        result = self.isElementPresent("//div[contains(text(),'Invalid email or password')]",
+                                       locatorType="xpath")
         return result
+
+    def verifyTitle(self):
+        if "Google" in self.getTitle():
+            return True
+        else:
+            return False

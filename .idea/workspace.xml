@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="600d0650-3419-4b6b-ae66-78f1b9befe01" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/letskodeit/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/letskodeit/.pytest_cache/v/cache/lastfailed" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/letskodeit/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/letskodeit/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/letskodeit/pages/home/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/letskodeit/pages/home/login_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/letskodeit/tests/home/login_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/letskodeit/tests/home/login_tests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +17,7 @@
     <session id="640916356">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
@@ -441,6 +441,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15871833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
