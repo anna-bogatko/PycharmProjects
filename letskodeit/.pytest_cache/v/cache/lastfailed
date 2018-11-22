@@ -1,5 +1,12 @@
 {
+  "tests/courses/register_courses_csv_data.py::RegisterCoursesCSVDataTests": true,
+  "tests/courses/register_courses_csv_data.py::RegisterCoursesCSVDataTests::test_invalidEnrollment_1___Complete_Step_By_Step_Java_For_Testers____10____1220____10__": true,
+  "tests/courses/register_courses_csv_data.py::RegisterCoursesCSVDataTests::test_invalidEnrollment_1___Java_for_beginners____10____1220____10__": true,
+  "tests/courses/register_courses_csv_data.py::TestStatus": true,
   "tests/courses/register_courses_multiple_data_set.py::RegisterCoursesTests::test_invalidEnrollment": true,
-  "tests/home/login_tests.py::LoginTests": true,
+  "tests/courses/register_courses_multiple_data_set.py::RegisterMultipleCoursesTests::test_invalidEnrollment_1___Complete_Step_By_Step_Java_For_Testers____10____1220____10__": true,
+  "tests/courses/register_courses_multiple_data_set.py::RegisterMultipleCoursesTests::test_invalidEnrollment_1___JavaScript_for_beginners____10____1220____10__": true,
+  "tests/courses/register_courses_multiple_data_set.py::RegisterMultipleCoursesTests::test_invalidEnrollment_2___Learn_Python_3_from_scratch____20____1220____20__": true,
+  "tests/home/login_tests.py::LoginTests::test_invalidLogin": true,
   "tests/home/login_tests.py::LoginTests::test_validLogin": true
 }

@@ -1,3 +1,4 @@
 [
-  "tests/courses/register_courses_multiple_data_set.py::RegisterCoursesTests::test_invalidEnrollment"
+  "tests/home/login_tests.py::LoginTests::test_invalidLogin",
+  "tests/home/login_tests.py::LoginTests::test_validLogin"
 ]
