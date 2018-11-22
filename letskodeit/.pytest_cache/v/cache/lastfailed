@@ -1,4 +1,5 @@
 {
+  "tests/courses/register_courses_multiple_data_set.py::RegisterCoursesTests::test_invalidEnrollment": true,
   "tests/home/login_tests.py::LoginTests": true,
   "tests/home/login_tests.py::LoginTests::test_validLogin": true
 }
